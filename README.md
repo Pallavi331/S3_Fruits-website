@@ -21,16 +21,16 @@ This project is a static fruits website hosted using Amazon S3.
 - Static website hosting using Amazon S3
 
 ## Website Screenshots
+<h2>Screenshots</h2>
 
-### Screenshot 1
-![Screenshot 1](S3_images/image4.png)
+<h3>Screenshot 1</h3>
+<img src="S3_images/image4.png" width="700">
 
-### Screenshot 2
-![Screenshot 2](S3_images/image3.png)
+<h3>Screenshot 2</h3>
+<img src="S3_images/image3.png" width="700">
 
-### Screenshot 3
-![Screenshot 3](S3_images/image1.png)
-
+<h3>Screenshot 3</h3>
+<img src="S3_images/image1.png" width="700">
 ## AWS Service
 
 Amazon S3
