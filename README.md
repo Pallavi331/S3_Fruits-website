@@ -23,7 +23,7 @@ This project is a static fruits website hosted using Amazon S3.
 ## Website Screenshots
 
 ### Screenshot 1
-![Image 4]()
+![Image 4](https://github.com/Pallavi331/S3_Fruits-website/blob/main/S3_images/img4.png?raw=true)
 
 ### Screenshot 2
 ![Image 3]()
